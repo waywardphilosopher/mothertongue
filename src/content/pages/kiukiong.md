@@ -4,10 +4,10 @@ description: Kiú-kiong is a writer from Taiwan. She writes fiction and nonficti
 publishDate: 'Oct 19 2023'
 seo:
   image:
-    src: '/kiukiong.jpg'
+    src: '/images/kiukiong.jpg'
 ---
 
-![Project preview](/kiukiong.jpg)
+![Project preview](/images/kiukiong.jpg)
 
 Kiú-kiong (玖芎) is author of the essay collection I Buried Myself under the Earth (我把自己埋進土裡), and has been a writer-in-residence at the Taiwan Literature Base in 2023.
 

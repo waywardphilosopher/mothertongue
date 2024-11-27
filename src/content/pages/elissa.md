@@ -5,10 +5,10 @@ publishDate: 'Oct 12 2023'
 isFeatured: true
 seo:
   image:
-    src: '/elissahd.jpg'
+    src: '/images/elissahd.jpg'
 ---
 
-![Project preview](/elissahd.jpg)
+![Project preview](/images/elissahd.jpg)
 
 Elissa Hunter-Dorans is a writer and artist from the Highlands, writing in Gaelic and English. Named the Scottish Poetry Library’s first ‘Next Generation Young Makar’ for Gaelic poetry, Elissa was mentored by Niall O’ Gallagher and performed at the Dandelion Festival, StAnza, and The Edinburgh Fringe.
 

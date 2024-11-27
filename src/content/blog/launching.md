@@ -6,11 +6,11 @@ tags:
   - Writing
 seo:
   image:
-    src: '/rocket.jpg'
+    src: '/images/rocket.jpg'
     alt: A rocket ship
 ---
 
-![A rocket ship](/rocket.jpg)
+![A rocket ship](/images/rocket.jpg)
 
 Hello, and welcome! We're delighted to announce the launch of our Mother Tongue Manifesto project, with the generous support of a Scottish Connections Fund grant from the Scottish Government.
 

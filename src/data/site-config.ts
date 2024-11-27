@@ -42,7 +42,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Translating Between Gàidhlig and Tâi-gí',
     description: 'A project by Wind&Bones',
     image: {
-        src: '/scotland-taiwan.jpg',
+        src: '/images/hero.jpg',
         alt: 'From Scotland to Taiwan'
     },
     headerNavLinks: [
@@ -99,7 +99,7 @@ const siteConfig: SiteConfig = {
         title: '',
         text: "Four Writers | Four Stories | Four Languages",
         image: {
-            src: '/hero.jpeg',
+            src: '/images/hero.jpeg',
             alt: 'Between Scotland and Taiwan'
         },
         actions: [

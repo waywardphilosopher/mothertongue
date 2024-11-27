@@ -4,11 +4,11 @@ seo:
   title: About Mother Tongue Manifesto
   description: Translating between Tâi-gí and Gàidhlig.
   image:
-    src: '/about.jpeg'
-    alt: Lighthouse
+    src: '/images/about.jpeg'
+    alt: Girl sitting in garden
 ---
 
-![Lighthouse - painting in black and white](/about.jpeg)
+![Lighthouse - painting in black and white](/images/about.jpeg)
 
 ## Welcome to _Mother Tongue Manifesto_
 
