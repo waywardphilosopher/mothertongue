@@ -38,12 +38,12 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Mother Tongue Manifesto',
+    subtitle: 'Translating Between Gàidhlig and Tâi-gí',
+    description: 'A project by Wind&Bones',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/scotland-taiwan.jpg',
+        alt: 'From Scotland to Taiwan'
     },
     headerNavLinks: [
         {
@@ -51,16 +51,20 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Projects',
-            href: '/projects'
+            text: 'About',
+            href: '/about'
         },
         {
-            text: 'Blog',
+            text: 'Who We Are',
+            href: '/whoweare'
+    },
+        {
+            text: 'News',
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Contact',
+            href: '/contact'
         }
     ],
     footerNavLinks: [
@@ -76,42 +80,38 @@ const siteConfig: SiteConfig = {
             text: 'Terms',
             href: '/terms'
         },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'Facebook',
+            href: 'https://facebook.com/windandboneswriting'
         },
         {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://instagram.com/windandboneswriting'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Bluesky',
+            href: 'https://bsky.app/profile/windandbones.bsky.social/'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: '',
+        text: "Four Writers | Four Stories | Four Languages",
         image: {
             src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'Between Scotland and Taiwan'
         },
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contact'
+                text: 'Find out more...',
+                href: '/about'
             }
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        title: 'Subscribe to the Wind&Bones Newsletter',
+        text: 'Get updates on our projects in Scotland, Taiwan and beyond!',
         formUrl: '#'
     },
     postsPerPage: 8,

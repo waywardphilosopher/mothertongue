@@ -1,43 +1,55 @@
 ---
 title: About
 seo:
-  title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  title: About Mother Tongue Manifesto
+  description: Translating between Tâi-gí and Gàidhlig.
   image:
     src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    alt: Lighthouse
 ---
 
-![Alt text for image](/about.jpeg)
+![Lighthouse - painting in black and white](/about.jpeg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Welcome to _Mother Tongue Manifesto_
 
-## Ethan Donovan - Web Developer based in Estonia
+Mother Tongue Manifesto is an innovative project, working with short story writers in Taiwanese (Tâi-gí) and Scottish Gaelic (Gàidhlig), and translating between the two languages. The project is produced by the Dundee-based social enterprise [Wind&Bones CIC](https://www.windandbones.com).
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+Wind&Bones is co-directed by writers Dr. Hannah Stevens and Dr. Will Buckingham. Hannah and Will divide their time between Scotland and Taiwan.by Wind&Bones CIC We are funded by a small grant from the Scottish Government's Scottish Connections fund.
 
-## Skills and Expertise
+## Why Translate?
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+Both Taiwanese and Gaelic are have been been historically marginalised. As writers based between Scotland and Taiwan, at Wind&Bones, we are interested in exploring the parallel experiences of minoritised language speakers in both countries. We believe in the possibility of nations built on linguistic and cultural diversity.
 
-## Innovation and Problem-Solving
+## Who are Our Writers
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+We have amassed an extraordinary group of writers. From Taiwan, we have (Naomi Sim) and (). And from Scotland we have () and ()
 
-## Global Perspective, Local Impact
+Our writers are also translators, working to translate each other's work. For translation from Mandarin to English, we have additional translation support from Dr. Will Buckingham, and we are currently seeking to commission a translator from English to Mandarin.
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+By the end of the project, each writer will have either translated or will have been translated by each other writer! In this way, we aim to build a strong collective sense of identity for the project.
 
-## Continuous Learning
+## What Do We Aim to Do?
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+We aim to highlight linguistic diversity of both Scotland and Taiwan by exploring translation both _from_ and _into_ minoritised languages. In this way, we want to contribute to expanding the growing canon of literature in both languages by:
 
-## Collaboration and Communication
+- Commissioning new original works in Tâi-gí and Gàidhlig
+- Introducing new translations into Gàidhlig and Tâi-gí.
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+## What are Our Project Outcomes?
 
-## Get in Touch
+### Online Publication
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+The stories we commission will be published in **four** languages on our website:
 
-_Let's build something amazing together!_
+- Gàidhlig
+- Tâi-gí
+- Mandarin
+- English
+
+### A New Anthology
+
+We also aim to publish the stories from this project in a new anthology, in book form. We aim for publication by the end of May 2025.
+
+---
+
+Image: 李梅樹 《小憩之女》 Li Mei-shu, _Lady Resting in the Garden_, National Taiwan Museum of Fine arts. Public domain via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lady_Resting_In_The_Garden_,by_Li_Mei-Shu.png)

@@ -16,30 +16,7 @@ const { class: className } = Astro.props;
                 </h2>
             )}
             {subscribe.text && <p class="w-full max-w-xl mb-8 text-sm leading-normal">{subscribe.text}</p>}
-            <form
-                action={subscribe.formUrl}
-                method="post"
-                id="subscribe-form"
-                name="subscribe-form"
-                class="w-full max-w-xl flex flex-col gap-3.5 sm:flex-row"
-                target="_blank"
-            >
-                <label for="email" class="sr-only">
-                    Email Address
-                </label>
-                <input
-                    type="email"
-                    name="email"
-                    id="email"
-                    class="w-full h-9 px-5 py-2 text-sm text-main bg-transparent border border-main rounded-full placeholder:text-main/60 focus:outline-none"
-                    required=""
-                    value=""
-                    placeholder="Your email"
-                />
-                <Button type="submit" name="subscribe" class="w-full h-9 sm:w-auto">
-                    Subscribe
-                </Button>
-            </form>
+            <iframe src="https://embeds.beehiiv.com/ba948d18-d48f-4815-ba32-a2ea5daa2297?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
         </section>
     )
 }

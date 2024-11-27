@@ -72,3 +72,7 @@ function formatCanonicalURL(url: string | URL) {
 <meta property="twitter:description" content={description} />
 {resolvedImage?.src && <meta property="twitter:image" content={resolvedImage.src} />}
 {resolvedImage?.alt && <meta name="twitter:image:alt" content={resolvedImage?.alt} />}
+
+<!-- Preload Beehiiv -->
+<link rel="preconnect" href="https://embeds.beehiiv.com">
+<link rel="preload" href="https://embeds.beehiiv.com/ba948d18-d48f-4815-ba32-a2ea5daa2297?slim=true" as="document">
