@@ -11,6 +11,6 @@ seo:
 
 ![Naomi Sím](/images/naomisim.jpg)
 
-Naomi Sím (沈宛瑩), a Taiwanese writer with a background in Communication Design and is a two-time recipient of the Tâi-gí Literature Award for short stories.
+Naomi Sím (沈宛瑩) is a Taiwanese writer with a background in Communication Design. She is a two-time recipient of the Tâi-gí Literature Award for short stories.
 
-Her work frequently explores themes of identity, culture, and includes satirical narratives that use humour to examine deeper societal issues.
+Her work explores themes of identity and culture, and uses humour and satire to examine deeper societal issues.

@@ -12,29 +12,24 @@ seo:
 
 ## Welcome to _Mother Tongue Manifesto_
 
-Mother Tongue Manifesto is an innovative project, working with short story writers in Taiwanese (Tâi-gí) and Scottish Gaelic (Gàidhlig), and translating between the two languages. The project is produced by the Dundee-based social enterprise [Wind&Bones CIC](https://www.windandbones.com).
+*Mother Tongue Manifesto* is an innovative project, working with short story writers in Taiwanese (Tâi-gí) and Scottish Gaelic (Gàidhlig), and translating between the two languages. The project is produced by the Scottish social enterprise [Wind&Bones](https://www.windandbones.com).
 
 Wind&Bones is co-directed by writers Dr. Hannah Stevens and Dr. Will Buckingham. Hannah and Will divide their time between Scotland and Taiwan.
 
 This project is funded by a grant from the Scottish Government's Scottish Connections fund.
 
 ## Why Translate?
-We believe in the possibility of nations built on linguistic and cultural diversity. Both Taiwanese and Gaelic are have been historically marginalised, and the two countries share many parallel experiences of language suppression and revival. As writers based between Scotland and Taiwan, at Wind&Bones we are interested in exploring these parallels. 
+We believe in the creative potential of nations that on built on linguistic and cultural diversity. Both Taiwanese and Gaelic are have been historically marginalised, and Taiwan and Scotland share many parallel experiences of language suppression and revival. As writers based between Scotland and Taiwan, at Wind&Bones we are excited to explore these parallels. 
 
 ## Who are Our Writers?
-We have amassed an extraordinary group of writers. From Taiwan, we have Naomi Sím and Kiú-kiong. And from Scotland we have Lisa MacDonald and and Elissa Hunter-Dorans.
+We have amassed an extraordinary group of writers. From Taiwan, we have [Naomi Sím](/naomi) and [Kiú-kiong](/kiukiong). And from Scotland we have [Lisa MacDonald](/lisa) and [Elissa Hunter-Dorans](/elissa).
 
-Our writers are also translators, working to translate each other's work. For translation from Mandarin to English, we have additional translation support from Dr. Will Buckingham, and we are currently seeking to commission a translator from English to Mandarin.
-
-By the end of the project, each writer will have either translated or will have been translated by every other writer! In this way, we aim to build a strong collective sense of identity for the project.
+Our writers are also translators, working to translate each other's work. By the end of the project, each writer will have either translated or will have been translated by every other writer! In this way, we aim to build a strong collective sense of identity for the project.
 
 ## What Do We Aim to Do?
-We aim to highlight linguistic diversity of both Scotland and Taiwan by exploring translation both _from_ and _into_ minoritised languages. In this way, we want to contribute to expanding the growing canon of literature in both languages by:
+We aim to the highlight linguistic diversity of both Scotland and Taiwan by exploring translation both _from_ and _into_ minoritised languages. In this way, we want to contribute to expanding the growing canon of literature in both languages.
 
-- Commissioning new original works in Tâi-gí and Gàidhlig
-- Introducing new translations into Gàidhlig and Tâi-gí.
-
-## What are Our Project Outcomes?
+## What are the Project Outcomes?
 ### 1. Online Publication
 The stories we commission will be published in **four** languages on this website:
 
@@ -44,7 +39,7 @@ The stories we commission will be published in **four** languages on this websit
 - English
 
 ### 2. A New Anthology
-We will publish the stories from this project in a new multi-lingual anthology, in book form. The book will be hitting the shelves some time in May 2025.
+We will publish the stories from this project in a new multi-lingual anthology, in book form. The book will be hitting the shelves in mid-2025.
 
 ---
 

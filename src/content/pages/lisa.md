@@ -10,4 +10,4 @@ seo:
 
 ![Project preview](/images/lisamacdonald.jpg)
 
-Lisa MacDonald is an educator and a writer. She is also a parent, a singer and a PhD student. She lives in a small, rural community in the Highlands of Scotland, where the beauty of the landscapes belies centuries of social upheaval. Her deep investment in place and community takes many forms, and she draws strength from connections and shared concern.
+Lisa MacDonald (Lisa NicDhòmhnaill) is an educator and a writer. She is also a parent, a singer and a PhD student. She lives in a small, rural community in the Highlands of Scotland, where the beauty of the landscapes belies centuries of social upheaval. Her deep investment in place and community takes many forms, and she draws strength from connections and shared concern.
