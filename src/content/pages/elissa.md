@@ -12,4 +12,4 @@ seo:
 
 Elissa Hunter-Dorans is a writer and artist from the Highlands, writing in Gaelic and English. She was the Scottish Poetry Library’s first Next Generation Young Makar for Gaelic poetry, and she has performed at the Dandelion Festival, StAnza, and The Edinburgh Fringe.
 
-Elissa was recently awarded the Julia Budenz Commemorative Prize for Gaelic poetry, and is president of Edinburgh University’s Folk and Traditional Music Society, where she is currently studying History of Art. She has collaborated with the Royal National Mòd and Fèisean nan Gàidheal, and has a fascination with religious and folk visual culture.
+Elissa was recently awarded the Julia Budenz Commemorative Prize for Gaelic poetry. She is president of Edinburgh University’s Folk and Traditional Music Society, where she is currently studying History of Art. She has collaborated with the Royal National Mòd and Fèisean nan Gàidheal, and has a fascination with religious and folk visual culture.
