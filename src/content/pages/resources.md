@@ -7,7 +7,7 @@ seo:
 
 ## Getting to Grips with Gaelic and Tâi-gí
 
-At Wind&Bones, neither of us are native speakers of either Gaelic or Tâi-gí. We believe that you don’t need to speak a langauge well, or even at all, to recognise the value and richness this language brings to our communities and our collective existence.
+At Wind&Bones, neither of us are native speakers of either Gaelic or Tâi-gí. But we believe that you don’t need to speak a langauge well, or even at all, to recognise the value and richness this language brings to our communities and both our individual and collective existence.
 
 Nevertheless, as a part of this project, we have been having lots of fun working on learning both languages, and so we thought we would share some of the resources we have been using.
 
