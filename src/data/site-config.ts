@@ -40,7 +40,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     title: 'Mother Tongue Manifesto',
     subtitle: 'Translating Between Gàidhlig and Tâi-gí',
-    description: 'A project by Wind&Bones',
+    description: 'A project by Wind&Bones, working with writers from Taiwan and Scotland to commission and translate short stories between Tâi-gí (Taiwanese) and Gaelic.',
     image: {
         src: '/images/hero.jpeg',
         alt: 'From Scotland to Taiwan'
