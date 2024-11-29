@@ -42,7 +42,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Translating Between Gàidhlig and Tâi-gí',
     description: 'A project by Wind&Bones',
     image: {
-        src: '/images/hero.webp',
+        src: '/images/hero.jpeg',
         alt: 'From Scotland to Taiwan'
     },
     headerNavLinks: [
