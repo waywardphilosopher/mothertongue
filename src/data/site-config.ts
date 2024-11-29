@@ -63,6 +63,10 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
+            text: 'Resources',
+            href: '/resources'
+        },
+        {
             text: 'Contact',
             href: '/contact'
         }

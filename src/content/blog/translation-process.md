@@ -1,0 +1,42 @@
+---
+title: Writing and Translating Across Four Languages 
+excerpt: Our writing and translation process
+publishDate: 'November 29 2024'
+tags:
+  - Writing
+  - Translation
+seo:
+  image:
+    src: '/images/translation.jpg'
+    alt: Woman reading
+---
+
+![Woman reading](/images/translation.jpg)
+
+Currently, as writers based between Scotland and Taiwan, at Wind&Bones we have been struck by the parallels between the experiences of language suppression and revival in both countries. Both Gaelic and Tâi-gí (along with other languages such as Scots, Hakka, and indigenous Taiwanese languages) have been historically marginalised. So our aim with this project is to highlight the linguistic richness of both Scotland and Taiwan, working with writers in both countries to produce new works.
+
+We’re particularly excited to be working to translate not just *from* but also *into* Tâi-gí and Gaelic. We are not sure — correct us if we are wrong! — but this may be the first-ever time in history that literary works have been translated between these two languages. 
+
+While we put everything in place to get started on writing and translation, we thought we should say more about how the writing and translation process for this project will work. We have four writers, between them working in four languages, writing four stories. Our writers in Taiwan are Naomi Sím and Kiú-kiong, and in Scotland are Lisa MacDonald and Elissa Hunter-Dorans.
+
+We’ll kick off the project with a collaborative online workshop, where we will explore these parallel experiences of language suppression and revival. Then all the writers taking park will begin work on their new stories. After that, we will work together to collaboratively translate these works. Here’s how it will work.
+
+| Original story | Translation 1 | Translation 2 | Translation 3 |
+|:--|:--|:--|:--|
+| Naomi Sím | Kiú-kiong | Wind&Bones | Lisa MacDonald |
+| Kiú-kiong | Naomi Sím | Wind&Bones | Elissa Hunter-Dorans |
+|  Lisa MacDonald  |  Elissa Hunter-Dorans | Wind&Bones |  Kiú-kiong  |
+| Elissa Hunter-Dorans | Lisa MacDonald  | Wind&Bones | Naomi Sím |
+
+In this table, for Naomi and Kiú-kiong, the progression of languages will be:
+> Tâi-gí [Original] → Mandarin [Translation 1] → English [Translation 2] → Gaelic [Translation 3]
+
+Meanwhile, for Lisa and Elissa, it will be the reverse: 
+
+> Gaelic [Original] → English [Translation 1] → Mandarin [Translation 2] → Tâi-gí [Translation 3]
+
+This means that all the writers on the project will be translated by, or will translate, all the other writers, leading to all kinds of interesting cross-currents!
+
+
+---
+Image: Alexandre Charpentier, *Young Woman Reading* (1896). Public domain [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Young_Woman_Reading_Met_DP889804.jpg)
