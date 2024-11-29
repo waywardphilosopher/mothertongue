@@ -1,12 +1,12 @@
 ---
-title: 'Naomi Sim (沈宛瑩)'
-description: Naomi Sim.
+title: 'Naomi Sím (沈宛瑩)'
+description: Naomi Sím.
 publishDate: 'Oct 2 2023'
 isFeatured: true
 seo:
   image:
     src: '/images/naomisim.jpg'
-    alt: Naomi Sim
+    alt: Naomi Sím
 ---
 
 ![Naomi Sím](/images/naomisim.jpg)
