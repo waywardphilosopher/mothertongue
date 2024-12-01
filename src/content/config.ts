@@ -29,7 +29,7 @@ const pages = defineCollection({
         title: z.string(),
         seo: seoSchema.optional()
     })
-});
+})
 
 const taigi = defineCollection({
     schema: z.object({
