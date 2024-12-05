@@ -2,7 +2,7 @@
 import { marked } from 'marked';
 import Button from './Button.astro';
 import siteConfig from '../data/site-config';
-import { Picture } from 'astro:assets';
+import { Image } from 'astro:assets';
 import myImage from '../assets/my_image.png'; // Image is 1600x900
 
 const hero = siteConfig.hero;
@@ -13,9 +13,7 @@ const hero = siteConfig.hero;
         <section class="w-full flex flex-col gap-8 mb-16 sm:mb-24">
             {hero.title && <h1 class="text-3xl leading-tight font-serif font-medium sm:text-5xl sm:leading-tight">{hero.title}</h1>}
             {hero.image?.src && (
-                <picture>
-                   <Picture class="w-full" src={hero.image.src} decoding="async" formats={['avif', 'webp']} height="100%" width="100%" alt={hero.image.alt || ''} /> 
-                </picture>
+                <Image src={hero.image.src} alt="" class="w-full" decoding="async"  height="1200" width="675" alt={hero.image.alt || ''} loading="eager" />
             )}
             {hero.text && <div class="max-w-none prose prose-dante text-center sm:prose-lg" set:html={marked.parse(hero.text)} />}
             {hero.actions && hero.actions.length > 0 && (
