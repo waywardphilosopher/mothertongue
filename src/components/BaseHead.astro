@@ -1,6 +1,7 @@
 ---
 import siteConfig from '../data/site-config';
 import '../styles/global.css';
+import { AstroFont } from "astro-font";
 
 export type Props = {
     title?: string;
@@ -79,3 +80,19 @@ function formatCanonicalURL(url: string | URL) {
 
 <!-- Plausible.io web tracking -->
 <script defer data-domain="taigael.com" src="https://plausible.io/js/script.js"></script>
+
+<!-- Optimise fonts -->
+<AstroFont
+config={[
+  {
+    src: [],
+    name: "Inter",
+    // Google Fonts URL
+    googleFontsURL: 'https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap',
+    preload: true,
+    display: "swap",
+    selector: "body",
+    fallback: "sans-serif",
+  },
+]}
+/>
