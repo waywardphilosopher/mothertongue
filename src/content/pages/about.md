@@ -12,7 +12,7 @@ seo:
 
 ## Welcome to _Tâigael: A Mother Tongue Manifesto_
 
-_ Tâigael: A Mother Tongue Manifesto_ is an innovative project, working with short story writers in Taiwanese (Tâi-gí) and Scottish Gaelic (Gàidhlig), and translating between the two languages. The project is produced by the Scottish social enterprise [Wind&Bones](https://www.windandbones.com).
+_Tâigael: A Mother Tongue Manifesto_ is an innovative project, working with short story writers in Taiwanese (Tâi-gí) and Scottish Gaelic (Gàidhlig), and translating between the two languages. The project is produced by the Scottish social enterprise [Wind&Bones](https://www.windandbones.com).
 
 Wind&Bones is co-directed by writers Dr. Hannah Stevens and Dr. Will Buckingham. Hannah and Will divide their time between Scotland and Taiwan.
 
