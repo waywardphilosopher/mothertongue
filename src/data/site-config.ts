@@ -38,8 +38,8 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Mother Tongue Manifesto',
-    subtitle: 'Translating Between Gàidhlig and Tâi-gí',
+    title: 'Tâigael: Stories from Taiwanese and Gaelic',
+    subtitle: 'A Mother-tongue Manifesto',
     description: 'A project by Wind&Bones, working with writers from Taiwan and Scotland to commission and translate short stories between Tâi-gí (Taiwanese) and Gaelic.',
     image: {
         src: '/images/hero.jpeg',
