@@ -67,6 +67,10 @@ const siteConfig: SiteConfig = {
             href: '/resources'
         },
         {
+            text: 'Press',
+            href: '/press'
+        },
+        {
             text: 'Contact',
             href: '/contact'
         }
