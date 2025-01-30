@@ -6,7 +6,7 @@ const navLinks = siteConfig.footerNavLinks || [];
 ---
 
 <footer class="w-full max-w-3xl mx-auto pt-12 pb-10 sm:pt-24 sm:pb-14">
-        {
+    {
         navLinks.length > 0 && (
             <div class="mb-4 flex flex-wrap gap-x-6 gap-y-1">
                 {navLinks.map((link) => (
@@ -40,7 +40,12 @@ const navLinks = siteConfig.footerNavLinks || [];
             )
         }
         <p class="text-sm">
-            &copy; {new Date().getFullYear()}&nbsp;<a class="hover:underline hover:underline-offset-2" href="/">Wind&Bones CIC</a>. All rights reserved. A company registered in Scotland, company no. SC734907: 3/L, 48 Cleghorn Street, Dundee. DD2 2NJ. UK.
+            &copy; {new Date().getFullYear()}&nbsp;<a class="hover:underline hover:underline-offset-2" href="/">Wind&Bones CIC</a>. All rights reserved. A
+            company registered in Scotland, company no. SC734907: 3/L, 48 Cleghorn Street, Dundee. DD2 2NJ. UK.
         </p>
+    </div>
+    <div>
+        <p class="text-sm flex justify-center mt-8"><img src="images/Scotland_Emblem_RGB.webp" alt="Scottish Connections Logo" /></p>
+        <p class="text-sm flex justify-center">Tâigael: A Mother Tongue Manifesto is supported by a grant from the Scottish Connections Fund</p>
     </div>
 </footer>
