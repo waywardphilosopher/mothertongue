@@ -51,6 +51,16 @@ const english = defineCollection({
     })
 });
 
+const gaelic = defineCollection({
+    schema: z.object({
+        title: z.string(),
+        description: z.string().optional(),
+        publishDate: z.coerce.date(),
+        isFeatured: z.boolean().default(false),
+        seo: seoSchema.optional()
+    })
+});
+
 const mandarin = defineCollection({
     schema: z.object({
         title: z.string(),
@@ -61,4 +71,4 @@ const mandarin = defineCollection({
     })
 });
 
-export const collections = { blog, pages, taigi, english, mandarin };
+export const collections = { blog, pages, taigi, english, mandarin, gaelic };

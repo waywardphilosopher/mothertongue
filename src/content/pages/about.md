@@ -36,7 +36,7 @@ We aim to highlight linguistic diversity of both Scotland and Taiwan by explorin
 
 ### 1. Online Publication
 
-The stories we commission will be published in **four** languages on this website:
+The stories we commission will be published in **four** languages:
 
 - Gàidhlig
 - Tâi-gí
