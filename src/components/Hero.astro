@@ -4,6 +4,7 @@ import Button from './Button.astro';
 import siteConfig from '../data/site-config';
 import { Image } from 'astro:assets';
 import myImage from '../assets/my_image.png'; // Image is 1600x900
+import Order from './Order.astro';
 
 const hero = siteConfig.hero;
 ---
@@ -22,6 +23,7 @@ const hero = siteConfig.hero;
                         <Button href={action.href}>{action.text}</Button>
                     ))}
                 </div>
+                <Order />
             )}
         </section>
     )
