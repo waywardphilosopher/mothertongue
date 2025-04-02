@@ -1,74 +1,69 @@
 ---
-
 import Button from './Button.astro';
 import siteConfig from '../data/site-config';
-
 ---
 
 <!-- component -->
 <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
-  <div class="grid gap-10 mx-auto sm:grid-cols-2 lg:grid-cols-3 lg:max-w-screen-lg">
-    <div>
-      <div class="relative overflow-hidden rounded-lg">
-        <a href="/naomi"><img class="object-cover w-full h-full rounded-lg" src="/images/naomisim-sm.jpg" alt="Naomi Sim" /></a>
-      </div>
-      <div class="flex flex-col sm:text-center">
-        <h3><a href="/naomi">Naomi Sím (沈宛瑩)</a></h3>
-        <p class="text-sm">Writer and Translator (Taiwan)</p>
-      </div>
+    <div class="grid gap-10 mx-auto sm:grid-cols-2 lg:grid-cols-3 lg:max-w-screen-lg">
+        <div>
+            <div class="relative overflow-hidden rounded-lg">
+                <a href="/naomi"><img class="object-cover w-full h-full rounded-lg" src="/images/naomisim-sm.jpg" alt="Naomi Sim" /></a>
+            </div>
+            <div class="flex flex-col sm:text-center">
+                <h3><a href="/naomi">Naomi Sím (沈宛瑩)</a></h3>
+                <p class="text-sm">Writer and Translator (Taiwan)</p>
+            </div>
+        </div>
+
+        <div>
+            <div class="relative overflow-hidden rounded-lg">
+                <a href="/lisa"><img class="object-cover w-full h-full rounded-lg" src=" /images/lisamacdonald-sm.jpg" alt="Lisa MacDonald" /></a>
+            </div>
+            <div class="flex flex-col sm:text-center">
+                <h3><a href="/lisa">Lisa MacDonald</a></h3>
+                <p class="text-sm">Writer and Translator (Scotland)</p>
+            </div>
+        </div>
+
+        <div>
+            <div class="relative overflow-hidden rounded-lg">
+                <a href="/kiukiong"><img class="object-cover w-full h-full rounded-lg" src="/images/kiukiong-sm.jpg" alt="Kiú-kiong (玖芎)" /></a>
+            </div>
+            <div class="flex flex-col sm:text-center">
+                <h3><a href="/kiukiong">Kiú-kiong (玖芎)</a></h3>
+                <p class="text-sm">Writer and Translator (Taiwan)</p>
+            </div>
+        </div>
+
+        <div>
+            <div class="relative overflow-hidden rounded-lg">
+                <a href="/elissa"><img class="object-cover w-full h-full rounded-lg" src="/images/elissahd-sm.jpg" alt="Elissa Hunter-Dorans" /></a>
+            </div>
+            <div class="flex flex-col sm:text-center">
+                <h3><a href="/elissa">Elissa Hunter-Dorans</a></h3>
+                <p class="text-sm">Writer and Translator (Scotland)</p>
+            </div>
+        </div>
+
+        <div>
+            <div class="relative overflow-hidden rounded-lg">
+                <a href="/shengchi"><img class="object-cover w-full h-full rounded-lg" src="/images/shengchi-sm.jpg" alt="Shengchi Hsu" /></a>
+            </div>
+            <div class="flex flex-col sm:text-center">
+                <h3><a href="/shengchi">Shengchi Hsu</a></h3>
+                <p class="text-sm">Translator</p>
+            </div>
+        </div>
+
+        <div>
+            <div class="relative overflow-hidden rounded-lg">
+                <a href="/windandbones"><img class="object-cover w-full h-full rounded-lg" src="/images/windandbones-sm.jpg" alt="Wind&Bones" /></a>
+            </div>
+            <div class="flex flex-col sm:text-center">
+                <h3><a href="/windandbones">Hannah Stevens & Will Buckingham</a></h3>
+                <p class="text-sm">Creative Producers and Publishers</p>
+            </div>
+        </div>
     </div>
-
-    <div>
-      <div class="relative overflow-hidden rounded-lg">
-        <a href="/lisa"><img class="object-cover w-full h-full rounded-lg" src=" /images/lisamacdonald-sm.jpg" alt="Lisa MacDonald" /></a>
-      </div>
-      <div class="flex flex-col sm:text-center">
-        <h3><a href="/lisa">Lisa MacDonald</a></h3>
-        <p class="text-sm">Writer and Translator (Scotland)</p>
-      </div>
-    </div>
-
-    <div>
-      <div class="relative overflow-hidden rounded-lg">
-        <a href="/kiukiong"><img class="object-cover w-full h-full rounded-lg" src="/images/kiukiong-sm.jpg" alt="Kiú-kiong (玖芎)" /></a>
-      </div>
-      <div class="flex flex-col sm:text-center">
-        <h3><a href="/kiukiong">Kiú-kiong (玖芎)</a></h3>
-        <p class="text-sm">Writer and Translator (Taiwan)</p>
-      </div>
-    </div>
-
-    <div>
-        <div class="relative overflow-hidden rounded-lg">
-          <a href="/elissa"><img class="object-cover w-full h-full rounded-lg" src="/images/elissahd-sm.jpg" alt="Elissa Hunter-Dorans" /></a>
-        </div>
-        <div class="flex flex-col sm:text-center">
-          <h3><a href="/elissa">Elissa Hunter-Dorans</a></h3>
-          <p class="text-sm">Writer and Translator (Scotland)</p>
-        </div>
-      </div>
-
-      <div>
-        <div class="relative overflow-hidden rounded-lg">
-          <a href="/windandbones"><img class="object-cover w-full h-full rounded-lg" src="/images/hannahstevens-sm.jpg" alt="Hannah Stevens" /></a>
-        </div>
-        <div class="flex flex-col sm:text-center">
-          <h3><a href="/windandbones">Hannah Stevens</a></h3>
-          <p class="text-sm ">Creative Producer, Co-director of Wind&Bones (Scotland)</p>
-        </div>
-      </div>
-
-      <div>
-        <div class="relative overflow-hidden rounded-lg">
-          <a href="/windandbones"><img class="object-cover w-full h-full rounded-lg" src="/images/willbuckingham-sm.jpg" alt="Will Buckingham" /></a>
-        </div>
-        <div class="flex flex-col sm:text-center">
-          <h3><a href="/windandbones">Will Buckingham</a></h3>
-          <p class="text-sm">Creative Producer and Translator, Co-director of Wind&Bones (Scotland)</p>
-        </div>
-      </div>
-
-  </div>
 </div>
-
-  

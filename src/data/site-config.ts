@@ -38,9 +38,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Tâigael: A Mother-tongue Manifesto',
-    subtitle: 'Stories from Taiwanese and Gaelic',
-    description: 'A project by Wind&Bones, working with writers from Taiwan and Scotland to commission and translate short stories between Tâi-gí (Taiwanese) and Gaelic. Supported by the Scottish Connections Fund.',
+    title: 'Tâigael: Stories from Taiwanese and Gaelic',
+    subtitle: 'Four Writers | Four Stories | Four Languages',
+    description: 'Working with writers from Taiwan and Scotland to commission and translate short stories between Tâi-gí (Taiwanese) and Gaelic. Supported by the Scottish Connections Fund.',
     image: {
         src: '/images/hero.jpeg',
         alt: 'From Scotland to Taiwan'
@@ -53,6 +53,23 @@ const siteConfig: SiteConfig = {
         {
             text: 'About',
             href: '/about'
+        },
+
+        {
+            text: '台語 (Tâi-gí)',
+            href: '/taigi'
+        },
+        {
+            text: 'Gaelic',
+            href: '/gaelic'
+        },
+        {
+            text: '中文',
+            href: '/mandarin'
+        },
+        {
+            text: 'English',
+            href: '/english'
         },
         {
             text: 'Who We Are',
