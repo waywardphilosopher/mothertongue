@@ -18,7 +18,7 @@ const { page } = Astro.props;
 const portfolio = page.data;
 ---
 
-<BaseLayout title="Mandarin" description="Tâi-gí ê kòo-sū" image={{ src: '/dante-preview.jpg', alt: 'The preview of the site' }} showHeader={true}>
+<BaseLayout title="Stories in Mandarin" description="Tâi-gí ê kòo-sū" image={{ src: '/dante-preview.jpg', alt: 'The preview of the site' }} showHeader={true}>
     <h1 class="mb-12 text-2xl leading-tight font-serif italic sm:mb-16 sm:text-4xl">Mandarin</h1>
     {portfolio.map((project) => <ProjectPreview project={project} class="mb-10 sm:mb-12" />)}
     <Pagination page={page} class="my-16 sm:my-24" />
