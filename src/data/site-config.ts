@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Tâigael: Stories from Taiwanese and Gaelic',
-    subtitle: 'Four Writers | Four Stories | Four Languages',
+    subtitle: 'A new book, publishing stories in translation from Taiwanese to Gaelic, and back again.',
     description: 'Working with writers from Taiwan and Scotland to commission and translate short stories between Tâi-gí (Taiwanese) and Gaelic. Supported by the Scottish Connections Fund.',
     image: {
         src: '/images/hero.jpeg',
