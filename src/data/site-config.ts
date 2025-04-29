@@ -54,26 +54,9 @@ const siteConfig: SiteConfig = {
             text: 'About',
             href: '/about'
         },
-
         {
-            text: '台語 (Tâi-gí)',
-            href: '/taigi'
-        },
-        {
-            text: 'Gaelic',
-            href: '/gaelic'
-        },
-        {
-            text: '中文',
-            href: '/mandarin'
-        },
-        {
-            text: 'English',
-            href: '/english'
-        },
-        {
-            text: 'Who We Are',
-            href: '/whoweare'
+            text: 'Stories & Storytellers',
+            href: '/stories'
     },
         {
             text: 'News',
