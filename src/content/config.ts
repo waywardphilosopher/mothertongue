@@ -31,44 +31,8 @@ const pages = defineCollection({
     })
 })
 
-const taigi = defineCollection({
-    schema: z.object({
-        title: z.string(),
-        description: z.string().optional(),
-        publishDate: z.coerce.date(),
-        isFeatured: z.boolean().default(false),
-        seo: seoSchema.optional()
-    })
 });
 
-const english = defineCollection({
-    schema: z.object({
-        title: z.string(),
-        description: z.string().optional(),
-        publishDate: z.coerce.date(),
-        isFeatured: z.boolean().default(false),
-        seo: seoSchema.optional()
-    })
-});
-
-const gaelic = defineCollection({
-    schema: z.object({
-        title: z.string(),
-        description: z.string().optional(),
-        publishDate: z.coerce.date(),
-        isFeatured: z.boolean().default(false),
-        seo: seoSchema.optional()
-    })
-});
-
-const mandarin = defineCollection({
-    schema: z.object({
-        title: z.string(),
-        description: z.string().optional(),
-        publishDate: z.coerce.date(),
-        isFeatured: z.boolean().default(false),
-        seo: seoSchema.optional()
-    })
 });
 
 export const collections = { blog, pages, taigi, english, mandarin, gaelic };
