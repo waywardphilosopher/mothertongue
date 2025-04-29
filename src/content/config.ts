@@ -31,8 +31,6 @@ const pages = defineCollection({
     })
 })
 
-});
 
-});
 
-export const collections = { blog, pages, taigi, english, mandarin, gaelic };
+export const collections = { blog, pages };
