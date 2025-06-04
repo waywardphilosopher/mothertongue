@@ -1,19 +1,57 @@
 ---
 import Button from './Button.astro';
 import siteConfig from '../data/site-config';
+import { Icon } from 'astro-icon/components';
 
 ---
 
 {
         <section class='px-2 py-2 flex flex-col items-center text-center sm:px-2 sm:py-2'>
-                <h2 class='w-full max-w-xl text-2xl leading-tight font-serif font-medium sm:text-4xl', 'mb-2' : 'mb-4'>
-                    Preorder the paperback!</h2>
-            <p class="w-full max-w-xl mb-8 text-sm leading-normal">In June 2025, <em>Tâigael: Stories from Taiwanese and Gaelic</em> will be published in handsome paperback edition, as well as in EPUB. Four stories by four writers in four languages, with linked audio here on this website! Pre-order here!</p>
-            <p class="w-full max-w-xl mb-8 text-sm leading-normal"><Button href="https://books.windandbones.com/product/taigael-stories-from-taiwanese-and-gaelic">Pre-order now!</Button></p>
+                <h2 class='w-full max-w-xl text-2xl leading-tight font-serif font-medium sm:text-4xl', 'mb-2' : 'mb-4'>Buy the Book</h2>
+            <p class="w-full max-w-xl mb-8 text-sm leading-normal">You can buy the book direct from us, or from any of the places below. For Taiwan customers, if you buy from us direct, we'll send it to your local 7-Eleven!<br />本書可直接向我們購買，或透過以下通路取得。台灣地區顧客若選擇直接訂購，將為您配送至指定之7-Eleven門市！</p>
+            <p class="w-full max-w-xl mb-8 text-sm leading-normal"></p>
             <div class="flex justify-center items-center">
                 <a href="https://books.windandbones.com/product/taigael-stories-from-taiwanese-and-gaelic" target="_blank" rel="noopener noreferrer">
-    <img class="h-auto max-w-full" src="/images/taigaelcover.jpg" alt="Image description">
+                <img class="h-auto max-w-full" src="/images/taigaelcover.jpg" alt="Taigael Book Cover">
+
   </a>      
             </div>
+<div class="max-w-xl mt-3 mb-2 text-center">
+          <h4 class="text-2xl font-serif font-medium mb-6 mt-6">
+    Where to Buy</h4>
+  <h5 class="text-1xl font-serif font-medium mb-6 mt-6">
+    Buy Paperback
+  </h5>
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 justify-items-center">
+    <Button href="https://books.windandbones.com/product/taigael-stories-from-taiwanese-and-gaelic">Wind&Bones<Icon name="circle-flags:gb-sct" class="inline-flex align-right text-1xl ml-2" /></Button>
+    <Button href="https://www.waterstones.com/book/taigael-stories-from-taiwanese-and-gaelic/hannah-stevens/will-buckingham/9781999376420">Waterstones<Icon name="circle-flags:gb-sct" class="inline-flex align-right text-1xl ml-2" /></Button>
+    <Button href="https://www.hive.co.uk/Product/Hannah-Stevens/Taigael--Stories-from-Taiwanese--Gaelic/31852393">Hive.co.uk<Icon name="circle-flags:gb-sct" class="inline-flex align-right text-1xl ml-2" /></Button>
+    <Button href="https://www.amazon.co.uk/Tâigael-Stories-Taiwanese-Hannah-Stevens/dp/1999376420/">Amazon (UK)<Icon name="circle-flags:gb-sct" class="inline-flex align-right text-1xl ml-2" /></Button>
+    <Button href="https://www.amazon.com/Tâigael-Stories-Taiwanese-Hannah-Stevens/dp/1999376420/">Amazon (US)<Icon name="circle-flags:us" class="inline-flex align-right text-1xl ml-2" /></Button>
+    <Button href="https://www.amazon.com.au/Tâigael-Stories-Taiwanese-Hannah-Stevens/dp/1999376420/">Amazon (AUS)<Icon name="circle-flags:au" class="inline-flex align-right text-1xl ml-2" /></Button>
+  </div>
+</div>
+<div class="max-w-xl mx-auto text-center">
+  <h5 class="text-1xl font-serif font-medium mb-6  mt-6">
+    Buy EPub
+  </h5>
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 justify-items-center">
+    <Button href="https://www.amazon.co.uk/Tâigael-Stories-Taiwanese-Hannah-Stevens-ebook/dp/B0F7C3W5S9/">Amazon (UK)<Icon name="circle-flags:gb-sct" class="inline-flex align-right text-1xl ml-2" /></Button>
+    <Button href="https://www.amazon.com/Tâigael-Stories-Taiwanese-Hannah-Stevens-ebook/dp/B0F7C3W5S9">Amazon (US)<Icon name="circle-flags:us" class="inline-flex align-right text-1xl ml-2" /></Button>
+    <Button href="https://www.amazon.com.au/Tâigael-Stories-Taiwanese-Hannah-Stevens-ebook/dp/B0F7C3W5S9">Amazon (AUS)<Icon name="circle-flags:au" class="inline-flex align-right text-1xl ml-2" /></Button>
+    <Button href="https://www.barnesandnoble.com/w/taigael-hannah-stevens/1147376323">Barnes&Noble<Icon name="circle-flags:us" class="inline-flex align-right text-1xl ml-2" /></Button>
+<Button href="https://www.kobo.com/tw/zh/ebook/taigael">Kobo (TW)<Icon name="circle-flags:tw" class="inline-flex align-right text-1xl ml-2" />
+<Button href="https://www.kobo.com/ca/en/ebook/taigael">Kobo (CA)<Icon name="circle-flags:ca" class="inline-flex align-right text-1xl ml-2" />
+</Button>
+<Button href="https://www.kobo.com/au/en/ebook/taigael">Kobo (AUS)<Icon name="circle-flags:au" class="inline-flex align-right text-1xl ml-2" />
+</Button>
+<Button href="https://www.kobo.com/gb/en/ebook/taigael">Kobo (UK)<Icon name="circle-flags:gb-sct" class="inline-flex align-right text-1xl ml-2" />
+<Button href="https://www.kobo.com/us/en/ebook/taigael">Kobo (US)<Icon name="circle-flags:us" class="inline-flex align-right text-1xl ml-2" />
+</Button>
+
+
+    
+  </div>
+</div>
         </section>
 }

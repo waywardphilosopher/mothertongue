@@ -21,7 +21,7 @@ Our approach to data collection is that we collect the minimum amount of data to
 
 This site runs using Astro, which makes it lightweight and privacy-aware. It does not use cookies by default.
 
-We collect visitor analytics through Plausible, a privacy-focussed GDPR-compliant alternative to Google Analytics. Unlike Google Analytics, Plausible does not track, collect, or store any personal data or personally identifiable information.
+We collect visitor analytics through Umami, a privacy-focussed GDPR-compliant alternative to Google Analytics. Unlike Google Analytics, Umami does not track, collect, or store any personal data or personally identifiable information.
 
 We use [Beehiiv](https://www.beehiiv.com/) as our newsletter tool. The Beehiiv script uses cookies to function. You can read their privacy policy [here](https://www.beehiiv.com/privacy). Our newsletter uses double opt-in, so after signing up, you will receive an email to confirm your subscription.
 
