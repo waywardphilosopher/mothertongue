@@ -11,7 +11,7 @@ FOLDER CONTENTS:
 ----Hannah Stevens and Will Buckingham 1.jpeg
 
 --Book Cover [SUB-FOLDER]
----Taigae-cover.jpg
+---Taigael-cover.jpg
 
 --Author and Translator Photos [SUB-FOLDER]
 ----Naomi Sim.jpg
