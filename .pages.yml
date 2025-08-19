@@ -5,7 +5,7 @@ content:
   - name: blog
     label: Blog
     type: collection
-    path: /src/content/blog
+    path: src/content/blog
     view:
       fields: [ title, draft, date ]
     fields:
@@ -18,5 +18,5 @@ content:
       - { name: featured, label: Featured, type: boolean }
       - { name: draft, label: Draft, type: boolean }
       - { name: tags, label: Tags, type: string, list: true }
-      - { name: description, label: Description, type: string }
+      - { name: excerpt, label: Excerpt, type: string }
       - { name: body, label: Body, type: rich-text }
