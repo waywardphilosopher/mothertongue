@@ -13,15 +13,16 @@ const seoSchema = z.object({
 });
 
 const blog = defineCollection({
-    schema: z.object({
-        title: z.string(),
-        excerpt: z.string().optional(),
-        publishDate: z.coerce.date(),
-        updatedDate: z.coerce.date().optional(),
-        isFeatured: z.boolean().default(false),
-        tags: z.array(z.string()).default([]),
-        seo: seoSchema.optional()
-    })
+  schema: z.object({
+    title: z.string(),
+    excerpt: z.string().optional(),
+    publishDate: z.coerce.date(),
+    updatedDate: z.coerce.date().optional(),
+    isFeatured: z.boolean().default(false),
+    tags: z.array(z.string()).default([]),
+    seoImage: z.string().optional(),
+    seoImageAlt: z.string().optional(),
+  }),
 });
 
 const pages = defineCollection({
