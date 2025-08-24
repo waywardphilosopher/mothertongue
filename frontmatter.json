@@ -1,0 +1,107 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "blog",
+      "previewPath": "'blog'",
+      "pageBundle": false,
+      "clearEmpty": true,
+      "fields": [
+        {
+          "name": "title",
+          "type": "string",
+          "single": true,
+          "required": true
+        },
+        {
+          "name": "excerpt",
+          "type": "string",
+          "single": true
+        },
+        {
+          "name": "publishDate",
+          "type": "datetime",
+          "default": "{{now}}",
+          "required": true
+        },
+        {
+          "name": "updatedDate",
+          "type": "datetime",
+          "default": "{{now}}"
+        },
+        {
+          "name": "isFeatured",
+          "type": "boolean"
+        },
+        {
+          "name": "tags",
+          "type": "tags",
+          "default": []
+        },
+        {
+          "name": "seoImage",
+          "type": "image",
+          "isPreviewImage": true
+        },
+        {
+          "name": "seoImageAlt",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "name": "pages",
+      "previewPath": "'pages'",
+      "pageBundle": false,
+      "clearEmpty": true,
+      "fields": [
+        {
+          "name": "title",
+          "type": "string",
+          "single": true,
+          "required": true
+        },
+        {
+          "name": "seo",
+          "type": "fields",
+          "fields": [
+            {
+              "name": "image",
+              "type": "image",
+              "isPreviewImage": true
+            },
+            {
+              "name": "pageType",
+              "type": "choice",
+              "choices": [
+                "website",
+                "article"
+              ],
+              "default": "website"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "astro",
+  "frontMatter.preview.host": "http://localhost:4321",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "blog",
+      "path": "[[workspace]]/src/content/blog",
+      "contentTypes": [
+        "blog"
+      ]
+    },
+    {
+      "title": "pages",
+      "path": "[[workspace]]/src/content/pages",
+      "contentTypes": [
+        "pages"
+      ]
+    }
+  ],
+  "frontMatter.content.publicFolder": "public",
+  "frontMatter.git.enabled": true
+}
