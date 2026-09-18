@@ -1,26 +1,27 @@
 ---
 import siteConfig from '../data/site-config';
 
-const socialLinks = siteConfig.socialLinks || [];
-const navLinks = siteConfig.footerNavLinks || [];
+const socialLinks = siteConfig.socialLinks ?? [];
+const navLinks = siteConfig.footerNavLinks ?? [];
+const currentYear = new Date().getFullYear();
 ---
 
-<footer class="w-full max-w-3xl mx-auto pt-12 pb-10 sm:pt-24 sm:pb-14">
+<footer class="mx-auto w-full max-w-3xl pt-12 pb-10 sm:pt-24 sm:pb-14">
     {
         navLinks.length > 0 && (
-            <div class="mb-4 flex flex-wrap gap-x-6 gap-y-1">
+            <nav class="mb-4 flex flex-wrap gap-x-6 gap-y-1" aria-label="Footer navigation">
                 {navLinks.map((link) => (
                     <a class="font-serif hover:underline hover:underline-offset-2" href={link.href}>
                         {link.text}
                     </a>
                 ))}
-            </div>
+            </nav>
         )
     }
     <div
         class:list={[
-            'pt-6 flex flex-col gap-4 border-t border-dashed border-main',
-            { 'sm:flex-row-reverse sm:justify-between sm:items-center': socialLinks.length > 0 }
+            'border-main flex flex-col gap-4 border-t border-dashed pt-6',
+            { 'sm:flex-row-reverse sm:items-center sm:justify-between': socialLinks.length > 0 }
         ]}
     >
         {
@@ -31,7 +32,7 @@ const navLinks = siteConfig.footerNavLinks || [];
                             class="inline-flex items-center justify-center text-sm hover:underline hover:underline-offset-2"
                             href={link.href}
                             target="_blank"
-                            rel="noopener noreferer"
+                            rel="noopener noreferrer"
                         >
                             {link.text}
                         </a>
@@ -40,12 +41,8 @@ const navLinks = siteConfig.footerNavLinks || [];
             )
         }
         <p class="text-sm">
-            &copy; {new Date().getFullYear()}&nbsp;<a class="hover:underline hover:underline-offset-2" href="/">Wind&Bones CIC</a>. All rights reserved. A
-            company registered in Scotland, company no. SC734907: 3/L, 48 Cleghorn Street, Dundee. DD2 2NJ. UK.
+            &copy; {currentYear}{' '}
+            <a class="hover:underline hover:underline-offset-2" href="/">{siteConfig.title}</a>. All rights reserved.
         </p>
-    </div>
-    <div>
-        <p class="text-sm flex justify-center mt-8"><img src="/images/Scotland_Emblem_RGB.webp" alt="Scottish Connections Logo" loading="lazy" /></p>
-        <p class="text-sm flex justify-center mt-8">This project is supported by grants from the Scottish Connections Fund and Creative Scotland.</p>
     </div>
 </footer>
