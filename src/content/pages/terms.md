@@ -5,11 +5,7 @@ seo:
   description: Copyright, legal and other information.
 ---
 
-<<<<<<< HEAD
-## Site Design, Content and Copyright
-=======
 **Last updated on January 11, 2026**
->>>>>>> upstream/main
 
 This website is designed using [Astro](https://astro.build). We use a modified version of the [Dante theme](https://astro.build/themes/details/dante/).
 
